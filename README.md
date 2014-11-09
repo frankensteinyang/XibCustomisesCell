@@ -1,4 +1,4 @@
 XibCustomisesCell
 =================
 
-Use Xib customises cells.
+Using Xib customises cells.
